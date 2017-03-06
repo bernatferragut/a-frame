@@ -83,6 +83,4 @@ The A-Frame Inspector is a visual tool for inspecting and editing A-Frame scenes
 
 This will open the visual Inspector where you can make changes and return to the scene with the reflected changes. You can visually move and place objects, poke around with properties of the components, or pan the camera around to see a different view of the scene. It’s like viewing the source in an interactive way.
 
-A-Frame Inspector
-
-The A-Frame Inspector is integrated with the A-Frame Registry. From the Inspector, you can install components from the Registry and attach them to objects in the scene with a couple of clicks.
+###Summary
