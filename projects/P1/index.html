@@ -23,18 +23,17 @@
       <a-assets>
         <img id="boxTexture" src="https://i.imgur.com/mYmmbrp.jpg">
         <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
-        <audio src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay
-      preload></audio>
+        <!--audio src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay preload--></audio>
       </a-assets>
 
-      <a-box 
+      <!--a-box 
       position="0 2 -5"
       rotation="0 45 45" 
       scale="2 2 2"
       src="#boxTexture"
       color="#FF4D7F"
       scale-on-mouseenter="to: 2.2 2.2 2.2"
-      >
+      -->
         <a-animation
         attribute="rotation" 
         to="365 45 45" 
@@ -50,6 +49,14 @@
       src="#groundTexture"
       >
       </a-plane>
+
+      <a-text 
+      value="Hello, A-Frame!" 
+      color="#FF4D7F"
+      position="0 2 -5" 
+      scale="1.5 1.5 1.5"
+      >
+      </a-text>
 
       <a-light type="ambient" color="#6DFE14"></a-light>
       <a-light type="point" intensity="4" position="2 4 4"></a-light>
