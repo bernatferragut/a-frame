@@ -83,4 +83,6 @@ The A-Frame Inspector is a visual tool for inspecting and editing A-Frame scenes
 
 This will open the visual Inspector where you can make changes and return to the scene with the reflected changes. You can visually move and place objects, poke around with properties of the components, or pan the camera around to see a different view of the scene. It’s like viewing the source in an interactive way.
 
-###Summary
+### Summary
+
+After having started to play with a-frame for few days I have to admit that is by far the easiest and more comprehensive way to start in VR today. You just need an Internet connection and some knowledge of basic Html to start playiing with. The results are relatively fast and it makes easy something that actually is far more complex than it seems like connecting to the right input device and setting up the stereo camera. VR, is like entering into the Matrix, it's deep and highly complex, but with a-frame I do think that more and more people will be able to start playin and experimenting with this exciting new world. Thumbs up for the Mozilla team in creating this beautiful piece of online software ! 
